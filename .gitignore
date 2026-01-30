@@ -14,13 +14,11 @@ html/*
 *.sublime-project
 *.sublime-workspace
 .vscode
-
 #debug
 svd/*
 openocd.cfg
-
 #doxydoc artefacts
-html/*
-
 #other junk
 .DS_Store
+# macOS system files
+._*
